@@ -21,3 +21,16 @@ This is a sample note.
 - **save and exit** - This allows the user save the phonebook as a txt file and terminates. The file is saved in the project directory.
 - **Load** - This allows the user to load a phoneboook txt file and displays it on the console.
 
+## Compiling
+To compile
+```sh
+make 
+```
+
+To remove files (complied object and resulting txt files in the directory)
+```sh
+make clean
+```
+
+> **WARNING** The clean command will remove **ALL** txt files in the directory. So be careful.
+
