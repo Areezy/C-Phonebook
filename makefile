@@ -16,4 +16,5 @@ $(TARGET_01): $(SOURCE_01)
 .PHONY: clean
 clean:
 	rm $(TARGET_01) $(OBJS)
+	rm *.txt
 
