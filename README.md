@@ -22,12 +22,12 @@ This is a sample note.
 - **Load** - This allows the user to load a phoneboook txt file and displays it on the console.
 
 ## Compiling
-To compile
+To compile run
 ```sh
 make 
 ```
 
-To remove files (complied object and resulting txt files in the directory)
+To remove files (complied object and resulting txt files in the directory) run
 ```sh
 make clean
 ```
